@@ -56,6 +56,12 @@ body {
   margin: 0.3rem 0;
   font-size: 0.95rem;
 }
+.college {
+  color: #444;
+}
+.location{
+  color: #666;
+}
 
 /* Section styles */
 section {
