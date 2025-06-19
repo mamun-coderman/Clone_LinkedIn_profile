@@ -15,7 +15,7 @@ body {
 /* Header & Cover */
 .cover-section {
   position: relative;
-  text-align: center;
+  text-align: left;
   margin-bottom: 2rem;
 }
 
