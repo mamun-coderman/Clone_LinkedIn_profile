@@ -48,11 +48,6 @@ body {
   margin: 0.5rem 0;
 }
 
-.profile-info .title {
-  font-weight: bold;
-  color: #0073b1;
-}
-
 .profile-info .bio,
 .profile-info .location,
 .profile-info .college,
