@@ -64,6 +64,12 @@ body {
 .bio{
   font-size: 0.95rem;
 }
+.header-button-flex{
+  display: flex;
+}
+.open-button{
+  
+}
 
 /* Section styles */
 section {
