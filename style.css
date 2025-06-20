@@ -66,6 +66,7 @@ body {
 }
 .header-button-flex{
   display: flex;
+  justify-content: space-around;
 }
 .open-button{
   border: 1px solid skyblue;
