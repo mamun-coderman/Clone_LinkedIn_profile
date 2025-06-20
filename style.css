@@ -50,17 +50,19 @@ body {
 
 .profile-info .bio,
 .profile-info .location,
-.profile-info .college,
-.profile-info .connections,
-.profile-info .status {
+.profile-info .college {
   margin: 0.3rem 0;
-  font-size: 0.95rem;
 }
 .college {
   color: #444;
+  font-size: 0.80rem;
 }
 .location{
-  color: #666;
+  color: #777;
+  font-size: 0.80rem;
+}
+.bio{
+  font-size: 0.95rem;
 }
 
 /* Section styles */
