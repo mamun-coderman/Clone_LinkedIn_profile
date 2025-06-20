@@ -76,6 +76,15 @@ body {
   color: #fff;
   text-align: center;
 }
+.add-button{
+  border: 1px solid skyblue;
+  border-radius: 5px;
+  padding: 5px 15px;
+  text-decoration: none;
+  background-color: #fff;
+  color: skyblue;
+  text-align: center;
+}
 
 /* Section styles */
 section {
