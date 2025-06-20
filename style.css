@@ -68,7 +68,11 @@ body {
   display: flex;
 }
 .open-button{
-  
+  border: 1px solid blue;
+  padding: 5px 15px;
+  text-decoration: none;
+  background-color: blue;
+  color: #fff;
 }
 
 /* Section styles */
