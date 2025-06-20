@@ -71,7 +71,7 @@ body {
 .open-button{
   border: 2px solid #00aaff;
   border-radius: 30px;
-  padding: 50px 5px;
+  padding: 5px 30px 5px 30px;
   text-decoration: none;
   background-color: #00aaff;
   color: #fff;
@@ -81,7 +81,7 @@ body {
 .add-button {
   border: 2px solid #00aaff;
   border-radius: 30px;
-  padding: 50px 5px;
+  padding: 5px 30px 5px 30px;
   text-decoration: none;
   background-color: #fff;
   color: #00aaff;
