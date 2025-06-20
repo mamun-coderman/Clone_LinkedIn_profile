@@ -77,16 +77,17 @@ body {
   color: #fff;
   text-align: center;
 }
-.add-button{
-  border: 1px solid skyblue;
+.add-button {
+  border: 1px solid #00aaff;
   border-radius: 5px;
   padding: 5px 15px;
   text-decoration: none;
   background-color: #fff;
-  color: skyblue;
+  color: #00aaff;
   text-align: center;
+  font-weight: bold;
 }
-
+  
 /* Section styles */
 section {
   background: #fff;
