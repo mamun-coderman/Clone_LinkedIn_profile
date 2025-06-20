@@ -69,18 +69,18 @@ body {
   justify-content: space-around;
 }
 .open-button{
-  border: 1px solid skyblue;
-  border-radius: 5px;
-  padding: 5px 15px;
+  border: 2px solid #00aaff;
+  border-radius: 15px;
+  padding: 5px 30px;
   text-decoration: none;
-  background-color: skyblue;
+  background-color: #00aaff;
   color: #fff;
   text-align: center;
 }
 .add-button {
-  border: 1px solid #00aaff;
-  border-radius: 5px;
-  padding: 5px 15px;
+  border: 2px solid #00aaff;
+  border-radius: 15px;
+  padding: 5px 30px;
   text-decoration: none;
   background-color: #fff;
   color: #00aaff;
